@@ -1,0 +1,12 @@
+*
+!.gitignore
+!src/
+!src/*.html
+
+!src/*.js
+!*.html
+!*.css
+!*.js
+!blog/
+!public/
+!public/*
